@@ -1,1 +1,2 @@
-s
+https://raw.githubusercontent.com/abreuzado/ScriptsSrc/refs/heads/main/PETGOSCR.txt
+https://raw.githubusercontent.com/abreuzado/ScriptsSrc/refs/heads/main/GUIPETSGO.txt
