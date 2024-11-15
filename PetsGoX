@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abreuzado/ScriptsSrc/refs/heads/main/PETGOSCR.txt"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abreuzado/ScriptsSrc/refs/heads/main/GUIPETSGO.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abreuzado/ScriptsSrc/refs/heads/main/PetsGo/PETGOSCR.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abreuzado/ScriptsSrc/refs/heads/main/PetsGo/GUIPETSGO.txt"))()
